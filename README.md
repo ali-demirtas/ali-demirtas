@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Ali Demirtaş
 
-<!--
-**ali-demirtas/ali-demirtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer & Business Analyst 
+Focused on **PHP, Python, JavaScript, SQL**  
 
-Here are some ideas to get you started:
+AI · RPA · Automation · API Development  
+Business Analysis · Process Optimization · Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech
+
+PHP · Python · JavaScript · SQL  
+WordPress · WooCommerce · REST API  
+Linux · Docker · Cloud
+
+---
+
+## 📊 Business & Analysis
+
+- Business Analysis & Requirement Gathering  
+- Process Modeling & Optimization  
+- CRM / ERP Analysis  
+- Agile (Scrum / Kanban)  
+- Technical Documentation & Flow Diagrams  
+- Stakeholder Communication
+
+---
+
+## 📫 Contact
+
+- 📧 ali@alidemirtas.net  
+- 🌐 https://alidemirtas.net  
+- 💼 https://www.linkedin.com/in/alidemirtass  
+
+---
+
+> Internal projects and private repositories.
+
