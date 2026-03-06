@@ -1,39 +1,31 @@
-# 👋 Hi, I’m Ali Demirtaş
+# Hi, I'm Ali Demirtaş
 
-Software Developer & Business Analyst 
-Focused on **PHP, Python, JavaScript, SQL**  
+Technical Business Analyst & Software Developer focused on CRM systems, automation, and AI-powered solutions.
 
-AI · RPA · Automation · API Development  
-Business Analysis · Process Optimization · Agile
+## Areas of Expertise
 
----
+- Business Analysis
+- CRM Systems
+- API Integrations
+- AI Applications
+- RPA Automation
+- Software Architecture
 
-## 🛠 Tech
+## Tech Stack
 
-PHP · Python · JavaScript · SQL  
-WordPress · WooCommerce · REST API  
-Linux · Docker · Cloud
+PHP  
+Python  
+JavaScript  
+SQL  
+REST API  
 
----
+## Key Projects
 
-## 📊 Business & Analysis
+- NuvoCRM – Modular CRM Platform
+- HR Tracking System
+- AI Chat System
+- Email Signature Management System
 
-- Business Analysis & Requirement Gathering  
-- Process Modeling & Optimization  
-- CRM / ERP Analysis  
-- Agile (Scrum / Kanban)  
-- Technical Documentation & Flow Diagrams  
-- Stakeholder Communication
+## Website
 
----
-
-## 📫 Contact
-
-- 📧 ali@alidemirtas.net  
-- 🌐 https://alidemirtas.net  
-- 💼 https://www.linkedin.com/in/alidemirtass  
-
----
-
-> Internal projects and private repositories.
-
+https://alidemirtas.net
